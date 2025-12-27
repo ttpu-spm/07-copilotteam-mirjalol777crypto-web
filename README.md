@@ -30,8 +30,8 @@ This assignment introduces you how to use **_Expand your team with Copilot codin
 
 _Here you should put the URL of your final repository after finishing the given tutorial_
 
-1. Expand your team with Copilot coding agent: _REPO LINK 1_
-2. Modernize Your Legacy Code with GitHub Copilot: _REPO LINK 2_
-3. Your first extension for GitHub Copilot:  _REPO LINK 3_
+1. Expand your team with Copilot coding agent: [_REPO LINK 1_](https://github.com/mirjalol777crypto-web/skills-expand-your-team-with-copilot)
+2. Modernize Your Legacy Code with GitHub Copilot: [_REPO LINK 2_](https://github.com/mirjalol777crypto-web/skills-modernize-your-legacy-code-with-github-copilot)
+3. Your first extension for GitHub Copilot:  [_REPO LINK 3_](https://github.com/mirjalol777crypto-web/skills-your-first-extension-for-github-copilot)
 
 
